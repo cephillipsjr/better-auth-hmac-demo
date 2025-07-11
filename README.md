@@ -11,8 +11,8 @@ Here’s how you can get the app running locally:
 1. **Clone the repo**:
 
    ```bash
-   git clone https://github.com/cephillipsjr/better-auth-demo
-   cd better-auth/demo/nextjs
+   git clone https://github.com/cephillipsjr/better-auth-hmac-demo
+   cd better-auth-hmac-demo
    ```
 
 2. **Install the dependencies**:
